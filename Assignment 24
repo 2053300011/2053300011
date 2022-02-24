@@ -1,0 +1,13 @@
+x=input()
+l=x.split()
+O=[]
+for i in l:
+    if i%2==0:
+       e.append()
+    else:
+      o.append(i)
+for i in range(Len(o)):
+    print(o[i],end='')
+print('')
+for i in range(len (e)):
+    print(e[i],end='')
